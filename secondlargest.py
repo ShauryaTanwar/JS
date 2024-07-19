@@ -1,4 +1,4 @@
-a = [1, 4, 9, 2, 6]
+a = [34, 32, 35, 1, 1] # Change Array for testing
 sLargest = -1
 largest = a[1]
 
